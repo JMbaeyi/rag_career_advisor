@@ -1,2 +1,11 @@
-torch, transformers, sentence-transformers, openai, faiss-cpu,
-streamlit, pandas, numpy, scikit-learn, matplotlib, seaborn
+torch
+transformers
+faiss-cpu
+sentence-transformers
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openai
