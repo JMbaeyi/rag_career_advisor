@@ -1,0 +1,2 @@
+torch, transformers, sentence-transformers, openai, faiss-cpu,
+streamlit, pandas, numpy, scikit-learn, matplotlib, seaborn
